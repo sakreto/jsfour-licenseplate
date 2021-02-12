@@ -1,3 +1,11 @@
+# License Plate Update!
+
+This fork generates a random string for plates. Useful for RP robberies (fake plates)
+
+doesnt need anything other than esx to work.
+
+**Not tested on esx 1.2**
+
 # jsfour-licenseplate
 A script that lets you create your own license plate and apply it to the nearest car
 
